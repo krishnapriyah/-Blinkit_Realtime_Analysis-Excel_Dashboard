@@ -87,13 +87,13 @@ Blinkit operates across multiple outlet types and city tiers. The business neede
 ```
 blinkit-sales-dashboard/
 │
-├── 📄 README.md
-├── 📊 Live_BlinkIT_Excel_Dashboard_and_pivots.xlsx
+├── README.md
+├── Live_BlinkIT_Excel_Dashboard_and_pivots.xlsx
 │     ├── Sheet 1: Raw Data         ← 8,523 records
 │     ├── Sheet 2: Pivot Sheet      ← All pivot tables & calculations
 │     └── Sheet 3: Dashboard        ← Final interactive dashboard
 │
-└── 📁 visuals/
+└──  visuals/
       └── blinkit_dashboard.png     ← Dashboard screenshot
       └── icons Used.pngs           ← Icons in Dashboard
 ```
