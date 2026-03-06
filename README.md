@@ -110,9 +110,7 @@ blinkit-sales-dashboard/
 
 ## Dashboard Preview
 
-> *(Add your dashboard screenshot in the `/visuals` folder and it will display here)*
-
-<img src="visuals/blinkit_dashboard.png" width="100%" alt="Blinkit Sales Dashboard"/>
+<img src="visuals/Blinkit_dashboard.png" width="100%" alt="Blinkit Sales Dashboard"/>
 
 ---
 
