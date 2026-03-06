@@ -95,7 +95,7 @@ blinkit-sales-dashboard/
 │
 └── 📁 visuals/
       └── blinkit_dashboard.png     ← Dashboard screenshot
-      └── icons used in Dashboard.pngs     ← Dashboard screenshot
+      └── icons Used.pngs           ← Icons in Dashboard
 ```
 
 ---
@@ -119,7 +119,7 @@ blinkit-sales-dashboard/
 
 ---
 
-## 🚀 How to Use This File
+##  How to Use This File
 
 1. Download the `.xlsx` file
 2. Open in **Microsoft Excel** (2016 or later recommended)
@@ -132,9 +132,9 @@ blinkit-sales-dashboard/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Krishna Priya M** — Data Analyst  
-📧 priya.magapu.sk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)  
-🐙 [GitHub](https://github.com/krishnapriyah)
+ priya.magapu.sk@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)  
+ [GitHub](https://github.com/krishnapriyah)
