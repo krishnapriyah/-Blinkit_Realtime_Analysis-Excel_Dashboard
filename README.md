@@ -1,5 +1,3 @@
-# -Blinkit_Realtime_Analysis-Excel_Dashboard
-
 
 #  Blinkit Sales Performance Dashboard — Excel
 
@@ -8,6 +6,11 @@
 ## Project Overview
 
 This project analyzes **8,523 sales records** from Blinkit (India's quick commerce grocery app) to understand what drives sales across different outlet types, locations, and product categories. The final output is an **interactive Excel dashboard** with slicers and pivot charts.
+
+---
+## Dashboard Preview
+
+<img src="visuals/Blinkit_dashboard.png" width="100%" alt="Blinkit Sales Dashboard"/>
 
 ---
 
@@ -108,11 +111,7 @@ blinkit-sales-dashboard/
 
 ---
 
-## Dashboard Preview
 
-<img src="visuals/Blinkit_dashboard.png" width="100%" alt="Blinkit Sales Dashboard"/>
-
----
 
 ##  How to Use This File
 
