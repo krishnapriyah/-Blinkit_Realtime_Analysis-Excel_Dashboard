@@ -5,10 +5,6 @@
 
 > *Analyzing India's Last Minute Delivery App sales data to uncover outlet performance, product trends, and customer preferences.*
 
-![Dashboard Preview](visuals/blinkit_dashboard.png)
-
----
-
 ## Project Overview
 
 This project analyzes **8,523 sales records** from Blinkit (India's quick commerce grocery app) to understand what drives sales across different outlet types, locations, and product categories. The final output is an **interactive Excel dashboard** with slicers and pivot charts.
